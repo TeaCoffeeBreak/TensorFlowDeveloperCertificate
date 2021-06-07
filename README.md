@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=f5liqUk0ZTw
 
 not quite understadning :( 
 
-'''
+```
 write code
 - if in doubt, run the code
 Explore & Experiment
@@ -37,7 +37,7 @@ Explore & Experiment
 Ask Questions even Dumb question.
 Do the excerise
 Share my work! : learning from explaination. 
-'''
+```
 
 TODO : 
 - enrol course
