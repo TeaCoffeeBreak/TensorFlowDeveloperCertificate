@@ -39,6 +39,8 @@ Do the excerise
 Share my work! : learning from explaination. 
 ```
 
+https://colab.research.google.com
+
 TODO : 
 - enrol course
 
