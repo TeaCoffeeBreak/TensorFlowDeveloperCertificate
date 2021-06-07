@@ -16,8 +16,19 @@ What is TensorFlow ?
 -- model data
 -- deploy model in (your) application
 
+
+Tensor Processing Unit (TPU) is an AI accelerator application-specific integrated circuit (ASIC) developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software
+https://en.wikipedia.org/wiki/Tensor_Processing_Unit
+
+
+What is tensor ?
+https://www.youtube.com/watch?v=tpCFfeUEGs8&t=22995s
+43:05 - [Keynote] 6. What is a tensor?
+https://www.youtube.com/watch?v=f5liqUk0ZTw
+
+not quite understadning :( 
+
 TODO : 
-- what is tensor Youtube.
 - enrol course
 
 https://www.coursera.org/professional-certificates/tensorflow-in-practice#about
