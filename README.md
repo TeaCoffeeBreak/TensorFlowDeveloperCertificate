@@ -41,9 +41,11 @@ Share my work! : learning from explaination.
 
 https://colab.research.google.com
 
-TODO : 
 - enrol course
 
 https://www.coursera.org/professional-certificates/tensorflow-in-practice#about
 
-Enrol date : xx/Jun/2021
+Enrol date : 08/Jun/2021
+
+basic information for Colab : TODO read it 
+https://research.google.com/colaboratory/faq.html
