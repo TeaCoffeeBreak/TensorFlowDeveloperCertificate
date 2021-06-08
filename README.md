@@ -75,3 +75,10 @@ print(training_images[0])
 ```
 
 
+
+
+
+Computer Vision
+- flatten will be tricky!
+- 
+
