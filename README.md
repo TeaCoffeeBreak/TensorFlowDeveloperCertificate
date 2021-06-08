@@ -82,3 +82,14 @@ Computer Vision
 - flatten will be tricky!
 - 
 
+```
+model = tf.keras.Sequential([
+          keras.layers.Dense(units=1, input_shape=[1])
+])
+
+model = tf.keras.models.Sequential([
+          tf.keras.layers.Flatten(),
+          tf.keras.layers.Dense(512, activation=tf.nn.relu),
+          tf.keras.layers.Dense(10, activation=tf.nn.softmax)
+])
+```
