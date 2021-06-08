@@ -65,6 +65,9 @@ how dense is working in hidden network
 https://www.youtube.com/watch?v=fXOsFF95ifk
 
 
+totall local env set 
+jupther install, -> tensorflow -> python 3
+
 matplotlib 로 프린팅 하는법
 ```import numpy as np
 np.set_printoptions(linewidth=200)
