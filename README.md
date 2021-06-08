@@ -64,3 +64,14 @@ https://ai.google/responsibilities/responsible-ai-practices/
 how dense is working in hidden network
 https://www.youtube.com/watch?v=fXOsFF95ifk
 
+
+matplotlib 로 프린팅 하는법
+```import numpy as np
+np.set_printoptions(linewidth=200)
+import matplotlib.pyplot as plt
+plt.imshow(training_images[0])
+print(training_labels[0])
+print(training_images[0])
+```
+
+
