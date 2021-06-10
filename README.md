@@ -2,6 +2,23 @@
 
 About exam : https://www.tensorflow.org/certificate
 
+# exam scope
+- Category 1: ​Basic / Simple model
+- Category 2: ​Model from learning dataset
+- Category 3: ​Convolutional Neural Network with real-world image dataset
+- Category 4: ​NLP Text Classification with real-world text dataset
+- Category 5: ​Sequence Model with real-world numeric dataset
+
+# coursera 
+https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses
+
+Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+Course 2: Convolutional Neural Networks in TensorFlow
+Course 3: Natural Language Processing in TensorFlow
+Course 4: Sequences, Time Series and Prediction
+
+
+
 TensorFlow tutorial : https://www.tensorflow.org/tutorials
 
 2X spped spped to get high level picture
