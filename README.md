@@ -103,8 +103,12 @@ Convolutional Neural Network
 pooling -> compression.
 image - > filter -> polling (lartest from filter) 
 https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+
 https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+
 https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D
+
 https://en.wikipedia.org/wiki/Kernel_(image_processing)
+
 iLode's Computer Graphics Tutorial
 https://lodev.org/cgtutor/filtering.html
