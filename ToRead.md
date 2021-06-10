@@ -13,6 +13,7 @@ https://www.tensorflow.org/api_docs/python/tf/keras/optimizers
 
 # loss
 https://gombru.github.io/2018/05/23/cross_entropy_loss/
+
 https://www.tensorflow.org/api_docs/python/tf/keras/losses
 
 - BinaryCrossentropy: Computes the cross-entropy loss between true labels and predicted labels.
